@@ -1,0 +1,12 @@
+{
+  "name": "45075-backend-npmjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "operaciones.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Alex Marin Mendez",
+  "license": "ISC"
+}
